@@ -1,5 +1,7 @@
+import GUI.Game.Clicker1;
+
 public class Main{
   public static void main(String[] args) {
-    Flags.main(args);
+    new Clicker1();
   }
 }
